@@ -20,7 +20,8 @@
                 "Time": "8PM - 9.30 PM",
                 "Event" : "Dinner"
             }
-        ] 
+        ],
+        "Flyer": "https://drive.google.com/uc?id=1JokuB2bzJOEAh0S4i0VIekF6mLa40phC&export=download" 
     },
     {
         "Title": "Marathi Astitva",
@@ -35,6 +36,7 @@
                 "Time": "4.30PM - 6.30 PM",
                 "Event" : "Musical Program"
             }
-        ] 
+        ],
+        "Flyer": "https://drive.google.com/uc?id=1FErOQvn61zMnCbgVYK-dSeRymC-ksG-0&export=download"  
     }
 ]
