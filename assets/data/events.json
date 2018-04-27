@@ -21,7 +21,8 @@
                 "Event" : "Dinner"
             }
         ],
-        "Flyer": "https://drive.google.com/uc?id=1JokuB2bzJOEAh0S4i0VIekF6mLa40phC&export=download" 
+        "Flyer": "https://drive.google.com/uc?id=1JokuB2bzJOEAh0S4i0VIekF6mLa40phC&export=download",
+        "Venue": "Bharatiya Temple,  1612 County Line Road, Chalfont, PA 18914"   
     },
     {
         "Title": "Marathi Astitva",
@@ -37,6 +38,7 @@
                 "Event" : "Musical Program"
             }
         ],
-        "Flyer": "https://drive.google.com/uc?id=1FErOQvn61zMnCbgVYK-dSeRymC-ksG-0&export=download"  
+        "Flyer": "https://drive.google.com/uc?id=1FErOQvn61zMnCbgVYK-dSeRymC-ksG-0&export=download",
+        "Venue": "Bharatiya Temple,  1612 County Line Road, Chalfont, PA 18914"  
     }
 ]
