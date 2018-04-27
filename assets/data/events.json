@@ -13,8 +13,12 @@
                 "Event" : "Arrival, Registration/Check-in"
             },
             {
+                "Time": "3:45PM - 4.00 PM",
+                "Event" : "Gudhi Pooja, Other Announcements"
+            },
+            {
                 "Time": "4PM - 7.30 PM",
-                "Event" : "Talent Show"
+                "Event" : "Talent Show (Front row reserved for family of current performer to shoot video)"
             },
             {
                 "Time": "8PM - 9.30 PM",
