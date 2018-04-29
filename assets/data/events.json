@@ -1,34 +1,5 @@
 [
     {
-        "Title": "PMM Talent Show",
-        "RSVPLink": "https://docs.google.com/forms/d/e/1FAIpQLSdo8a1p_NMHMXVCpahIrzQkEfjaFTlYlTx_cQB9uhBTDl4QvQ/viewform",  
-        "FBLink": "https://www.facebook.com/events/243021706244819",          
-        "Fee": "Free for Members. $20 for Non-members (Kids 5 and under free)",
-        "FeeDetails": "$5 Participation Fee for Non-members",
-        "FeeLink": "",
-        "Date" : "April 28, 2018 (Sat)",
-        "Agenda": [
-            {
-                "Time": "3PM - 3.45 PM",
-                "Event" : "Arrival, Registration/Check-in"
-            },
-            {
-                "Time": "3:45PM - 4.00 PM",
-                "Event" : "Gudhi Pooja, Other Announcements"
-            },
-            {
-                "Time": "4PM - 7.30 PM",
-                "Event" : "Talent Show (Front row reserved for family of current performer to shoot video)"
-            },
-            {
-                "Time": "8PM - 9.30 PM",
-                "Event" : "Dinner"
-            }
-        ],
-        "Flyer": "https://drive.google.com/uc?id=1JokuB2bzJOEAh0S4i0VIekF6mLa40phC&export=download",
-        "Venue": "Bharatiya Temple,  1612 County Line Road, Chalfont, PA 18914"   
-    },
-    {
         "Title": "Marathi Musical Program - Marathi Astitva",
         "RSVPLink": "",        
         "FBLink": "https://www.facebook.com/events/169612583746420",        
