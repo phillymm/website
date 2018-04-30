@@ -15,5 +15,39 @@
         ],
         "Flyer": "https://drive.google.com/uc?id=1FErOQvn61zMnCbgVYK-dSeRymC-ksG-0&export=download",
         "Venue": "Bharatiya Temple,  1612 County Line Road, Chalfont, PA 18914"  
+    },
+    {
+        "Title": "Pt Partho Sarathy Sarod Recital and Pt Ramdas Palsule Tabla Solo",
+        "RSVPLink": "",        
+        "FBLink": "https://www.facebook.com/events/430070400786969",        
+        "Fee": "$15",
+        "FeeDetails": "Your support for these artists is greatly appreciated",
+        "FeeLink": "https://www.tickethungama.com/sarodtabla",
+        "Date" : "May 18, 2018 (Fri)",
+        "Agenda": [
+            {
+                "Time": "7.30PM - 10.30 PM",
+                "Event" : ""
+            }
+        ],
+        "Flyer": "https://drive.google.com/uc?id=1juz1b9PyZXKiqQmu5zGLmFBOvWIItMwV&export=download",
+        "Venue": "Vedanti Residence - 325 Creek Crossing Lane, Chester Springs, PA 19425"  
+    },
+    {
+        "Title": "Pt Partho Sarathy Sarod Recital and Pt Ramdas Palsule Tabla Solo",
+        "RSVPLink": "",        
+        "FBLink": "https://www.facebook.com/events/400793587053308",        
+        "Fee": "$15",
+        "FeeDetails": "Your support for these artists is greatly appreciated",
+        "FeeLink": "https://www.tickethungama.com/sarodhatfield",
+        "Date" : "May 19, 2018 (Sat)",
+        "Agenda": [
+            {
+                "Time": "6 PM - 9 PM",
+                "Event" : ""
+            }
+        ],
+        "Flyer": "https://drive.google.com/uc?id=1wyCoR5h15ajIsAzqxgurtW0q-_0yCopP&export=download",
+        "Venue": "Dave Residence - 1678 Hedgewood Rd, Hatfield, PA 19440"  
     }
 ]
