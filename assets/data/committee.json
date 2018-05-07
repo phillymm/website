@@ -5,17 +5,17 @@
             {
                 "role": "President",
                 "person": "Sangeeta Raje-Palkar",
-                "email": "president@phillymm.org"
+                "email": "President.PhillyMM@gmail.com"
             },
             {
                 "role": "Vice President",
                 "person": "Vikrant Kamble",
-                "email": "v.p@phillymm.org"
+                "email": "VicePresident.PhillyMM@gmail.com"
             },
             {
                 "role": "Secretary",
                 "person": "Rahul Palnitkar",
-                "email": "Secy@phillymm.org"
+                "email": "Secy.PhillyMM@gmail.com"
             },
             {
                 "role": "Associate Secretary",
@@ -25,7 +25,7 @@
             {
                 "role": "Treasurer",
                 "person": "Vilas Sodaye",
-                "email": "treasurer@phillymm.org"
+                "email": "Treasurer.PhillyMM@gmail.com"
             },
             {
                 "role": "Associate Treasurer",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "Title": "Executive Committee",
+        "Title": "Executive Committee (ec-phillymm@googlegroups.com)",
         "Members" : [
             {
                 "person":"Wilfred DSouza"
@@ -78,7 +78,7 @@
     },
     {
         "Title": "Trustees",
-        "Email": "trustees@phillymm.org",
+        "Email": "Trustees.PhillyMM@googlegrooups.com",
         "Members" : [
             {
                 "person":"Achyut Ratnaparkhi"   
