@@ -2,24 +2,6 @@
     {
         "Title": "Pt Partho Sarathy Sarod Recital and Pt Ramdas Palsule Tabla Solo",
         "RSVPLink": "",        
-        "FBLink": "https://www.facebook.com/events/430070400786969",        
-        "Fee": "Regular Ticket: $15. Student Discount Ticket: $10",
-        "FeeDetails": "Buy your tickets online or at the venue.",
-        "FeeLink": "https://www.tickethungama.com/sarodtabla",
-        "Date" : "May 18, 2018 (Fri)",
-        "Agenda": [
-            {
-                "Time": "7.30PM - 10.30 PM",
-                "Event" : ""
-            }
-        ],
-        "Flyer": "https://drive.google.com/uc?id=1Fp4N2doFCVdJbU0yy2IA4__GGobzfXjt&export=download",
-        "Venue": "Vedanti Residence - 325 Creek Crossing Lane, Chester Springs, PA 19425",
-        "Video": "https://www.youtube.com/embed/kPSgbbUB9xI"
-    },
-    {
-        "Title": "Pt Partho Sarathy Sarod Recital and Pt Ramdas Palsule Tabla Solo",
-        "RSVPLink": "",        
         "FBLink": "https://www.facebook.com/events/400793587053308",        
         "Fee": "Regular Ticket: $15. Student Discount Ticket: $10",
         "FeeDetails": "Buy your tickets online or at the venue. ",
@@ -34,5 +16,23 @@
         "Flyer": "https://drive.google.com/uc?id=1Fj508Y2NgEJwUvBaUvj7eh8nXj7cKd8J&export=download",
         "Venue": "Dave Residence - 1678 Hedgewood Rd, Hatfield, PA 19440",
         "Video" : "https://www.youtube.com/embed/EYyTTagZYf4"  
+    },
+    {
+        "Title": "PMM Picnic",
+        "RSVPLink": "",        
+        "FBLink": "",        
+        "Fee": "Non Member fee: $20 per adult.",
+        "FeeDetails": "",
+        "FeeLink": "",
+        "Date" : "July 2018. Stay tuned for exact date and time.",
+        "Agenda": [
+            {
+                "Time": "TBD",
+                "Event" : ""
+            }
+        ],
+        "Flyer": "",
+        "Venue": "TBD",
+        "Video" : ""  
     }
 ]
