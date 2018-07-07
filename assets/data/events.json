@@ -1,15 +1,27 @@
 [   {
         "Title": "PMM Picnic",
-        "RSVPLink": "",        
+        "RSVPLink": "https://docs.google.com/forms/d/e/1FAIpQLSfUpaDkswmTalDaMeNSNTSzc-j9v3TYxF7xKxnZXXpDPmYzfg/viewform",        
         "FBLink": "",        
         "Fee": "Non Member fee: $20 per adult. Pay less if you sign up for 2018-2019 annual membership at the picnic.",
         "FeeDetails": "",
         "FeeLink": "",
-        "Date" : "July 14, 2018. Stay tuned for the timeline.",
+        "Date" : "July 14, 2018.",
         "Agenda": [
             {
-                "Time": "TBD",
-                "Event" : ""
+                "Time": "11AM - 12PM",
+                "Event" : "Arrival, Mix n Mingle"
+            },
+            {
+                "Time": "12PM",
+                "Event" : "Lunch"
+            },
+            {
+                "Time": "1PM - 2:30PM",
+                "Event" : "Pack breakfast bags for AFF (Giving back to community)"
+            },
+            {
+                "Time": "2:30PM - 5PM",
+                "Event" : "Arrival, Mix n Mingle"
             }
         ],
         "Flyer": "",
