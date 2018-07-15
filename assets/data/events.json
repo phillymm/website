@@ -1,31 +1,19 @@
 [   {
-        "Title": "PMM Picnic",
+        "Title": "PMM Ganapati",
         "RSVPLink": "",        
         "FBLink": "",        
-        "Fee": "Non Member fee: $20 per adult.",
+        "Fee": "",
         "FeeDetails": "",
         "FeeLink": "",
-        "Date" : "July 14, 2018.",
-        "Agenda": [
+        "Date" : "September, 2018.",
+        "Agenda": [            
             {
-                "Time": "11AM - 12PM",
-                "Event" : "Arrival, Mix n Mingle"
-            },
-            {
-                "Time": "12PM",
-                "Event" : "Lunch"
-            },
-            {
-                "Time": "1PM - 2:30PM",
-                "Event" : "Pack breakfast bags for AFF (Giving back to community). https://www.signupgenius.com/go/5080a4daea728a3ff2-pmmgiving"
-            },
-            {
-                "Time": "2:30PM - 5PM",
-                "Event" : "Games"
+                "Time": "12PM - 5PM",
+                "Event" : "Details coming soon"
             }
         ],
         "Flyer": "",
-        "Venue": "Wilson Farm Park - 500 Lee Rd, Wayne, PA 19087",
+        "Venue": "Bharatiya Temple, www.b-temple.org",
         "Video" : ""  
     }
 ]
