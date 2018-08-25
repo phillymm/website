@@ -15,5 +15,23 @@
         "Flyer": "https://drive.google.com/thumbnail?id=1YhWbN24Dgs92eowl9BxfLou3sVJ3p7ei&sz=w1000-h900",
         "Venue": "Bharatiya Temple, www.b-temple.org",
         "Video" : ""  
+    },
+    {
+        "Title": "PMM Navaratri 2018",
+        "RSVPLink": "",        
+        "FBLink": "",        
+        "Fee": "",
+        "FeeDetails": "",
+        "FeeLink": "",
+        "Date" : "Tentatively, Sunday, October 14, 2018.",
+        "Agenda": [            
+            {
+                "Time": "Evening",
+                "Event" : "Details coming soon"
+            }
+        ],
+        "Flyer": "",
+        "Venue": "TBD",
+        "Video" : ""  
     }
 ]
