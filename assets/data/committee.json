@@ -4,37 +4,37 @@
         "Members" : [
             {
                 "role": "President",
-                "person": "Sangeeta Raje-Palkar",
+                "person": "Vikrant Kamble",
                 "email": "President.PhillyMM@gmail.com"
             },
             {
                 "role": "Vice President",
-                "person": "Vikrant Kamble",
+                "person": "Rahul Palnitkar",
                 "email": "VicePresident.PhillyMM@gmail.com"
             },
             {
                 "role": "Secretary",
-                "person": "Rahul Palnitkar",
+                "person": "Gautami Joglekar",
                 "email": "Secy.PhillyMM@gmail.com"
             },
             {
                 "role": "Associate Secretary",
-                "person": "Smruti Phathak",
+                "person": "Swati Watve",
                 "email": ""
             },
             {
                 "role": "Treasurer",
-                "person": "Vilas Sodaye",
+                "person": "Wilfred Dsouza",
                 "email": "Treasurer.PhillyMM@gmail.com"
             },
             {
                 "role": "Associate Treasurer",
-                "person": "Sanjay Valanju",
+                "person": "Anuja Palsule",
                 "email": ""
             },
             {
-                "role": "Webmaster",
-                "person": "Manish Kurhekar",
+                "role": "Web Team",
+                "person": "Amit Shinde, Vikrant Chawak, Yogesh Jamkhindikar",
                 "email": ""
             },
             {
@@ -48,32 +48,23 @@
         "Title": "Executive Committee (ec-phillymm@googlegroups.com)",
         "Members" : [
             {
-                "person":"Wilfred DSouza"
-            },
-            {
-                "person": "Tejas Sirsat"
-            },
-            {
-                "person": "Gautami Joglekar"
-            },
-            {
                 "person": "Arpana Date"
             },
             {
-                "person": "Anuja Palsule"
+                "person": "Neeraj Joshi"
+            },
+            {
+                "person":"Ojaswinee Jog"
+            },            
+            {
+                "person": "Prasad Sawant"
+            },
+            {
+                "person": "Priya Joshi"
             },
             {
                 "person": "Vaishali Joglekar"
-            },
-            {
-                "person": "​​Ojaswinee Jog"
-            },
-            {
-                "person": "Swati Watve"
-            },
-            {
-                "person": "Pallavi Nadkarni"
-            }
+            }            
         ]
     },
     {
