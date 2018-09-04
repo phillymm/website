@@ -1,70 +1,67 @@
 [
     {
-        "Title": "Officers",
+        "Title": "Executive Committee (ec-phillymm@googlegroups.com)",
         "Members" : [
             {
                 "role": "President",
                 "person": "Vikrant Kamble",
-                "email": "President.PhillyMM@gmail.com"
+                "email": "President.PhillyMM@gmail.com",
+                "picture":"assets/images/VK.jpg"
             },
             {
                 "role": "Vice President",
                 "person": "Rahul Palnitkar",
-                "email": "VicePresident.PhillyMM@gmail.com"
+                "email": "VicePresident.PhillyMM@gmail.com",
+                "picture":"assets/images/RP.jpg"
             },
             {
                 "role": "Secretary",
                 "person": "Gautami Joglekar",
-                "email": "Secy.PhillyMM@gmail.com"
+                "email": "Secy.PhillyMM@gmail.com",
+                "picture":"assets/images/GJ.jpg"
             },
             {
                 "role": "Associate Secretary",
-                "person": "Swati Watve",
-                "email": ""
+                "person": "SW",
+                "email": "",
+                "picture":"assets/images/SW.jpg"
             },
             {
                 "role": "Treasurer",
                 "person": "Wilfred Dsouza",
-                "email": "Treasurer.PhillyMM@gmail.com"
+                "email": "Treasurer.PhillyMM@gmail.com",
+                "picture":"assets/images/WD.jpg"
             },
             {
                 "role": "Associate Treasurer",
                 "person": "Anuja Palsule",
-                "email": ""
+                "email": "",
+                "picture":"assets/images/AP.jpg"
             },
             {
                 "role": "Web Team",
                 "person": "Amit Shinde, Vikrant Chawak, Yogesh Jamkhindikar",
-                "email": ""
+                "email": "",
+                "picture":"assets/images/WebTeam-Collage.png"
             },
             {
                 "role": "BMM Liaison",
                 "person": "Ani Railkar",
-                "email": ""
+                "email": "",
+                "picture":"assets/images/AR.jpg"
+            },
+            {
+                "role": "Community Outreach",
+                "person": "Vaishali Joglekar, Priya Joshi, Prasad Sawant, Neeraj Joshi, Arpana Date",
+                "email": "",
+                "picture":"assets/images/Outreach-collage.png"
+            },
+            {
+                "role": "Inventory Management",
+                "person": "Ojas Jog, Arpana Date, Anuja Palsule",
+                "email": "",
+                "picture":"assets/images/Inventory-collage.png"
             }
-        ]
-    },
-    {
-        "Title": "Executive Committee (ec-phillymm@googlegroups.com)",
-        "Members" : [
-            {
-                "person": "Arpana Date"
-            },
-            {
-                "person": "Neeraj Joshi"
-            },
-            {
-                "person":"Ojaswinee Jog"
-            },            
-            {
-                "person": "Prasad Sawant"
-            },
-            {
-                "person": "Priya Joshi"
-            },
-            {
-                "person": "Vaishali Joglekar"
-            }            
         ]
     },
     {

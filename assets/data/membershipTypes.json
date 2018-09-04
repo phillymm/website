@@ -6,5 +6,6 @@
     {"name":"5 - Individual Membership", "divid":"dSingle"},
     {"name":"6 - Single Parent","divid":"dSingleParent"},
     {"name":"7 - Student Membership","divid":"dStudent"},
-    {"name":"8 - Visiting Parents Membership (6 months)","divid":"dParent"}
+    {"name":"8 - Visiting Parents Membership (6 months)","divid":"dParent"},
+    {"name":"9 - Ganapati Day Membership (Non Member Fee)","divid":"dCurrent"}
 ]
