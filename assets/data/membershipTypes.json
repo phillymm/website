@@ -1,13 +1,10 @@
 [
-    {"name":"Elite Membership","divid":"dElite"},
-    {"name":"Family with kids","divid":"dFamilyKids"},
-    {"name":"Single Parent","divid":"dSingleParent"},
-    {"name":"Family without kids", "divid":"dFamily"},
-    {"name":"Single Adult", "divid":"dSingle"},
-    {"name":"Senior Couple", "divid":"dSeniorCouple"},
-    {"name":"Senior Single", "divid":"dSenior"},
-    {"name":"Student Couple","divid":"dStudentCouple"},
-    {"name":"Student Single","divid":"dStudent"},
-    {"name":"Visiting Parent Couple","divid":"dParentCouple"},
-    {"name":"Visiting Parent Single", "divid":"dParent"}
+    {"name":"1 - Elite Program Membership/Sponsorship","divid":"dEliteProgram"},
+    {"name":"2 - Elite Food Membership/Sponsorship","divid":"dEliteFood"},
+    {"name":"3 - Family Membership","divid":"dFamily"},
+    {"name":"4 - Senior Citizen", "divid":"dSenior"},
+    {"name":"5 - Individual Membership", "divid":"dSingle"},
+    {"name":"6 - Single Parent","divid":"dSingleParent"},
+    {"name":"7 - Student Membership","divid":"dStudent"},
+    {"name":"8 - Visiting Parents Membership (6 months)","divid":"dParent"}
 ]
