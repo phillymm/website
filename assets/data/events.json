@@ -8,8 +8,24 @@
         "Date" : "Sunday, September 16, 2018.",
         "Agenda": [            
             {
-                "Time": "12PM - 5PM",
-                "Event" : "Details coming soon"
+                "Time": "10:45 AM onwards",
+                "Event" : "Registration and check in"
+            },
+            {
+                "Time": "11:30 AM",
+                "Event" : "Ganapati Atharvashirsha and Gapati Aarti in temple hall upstairs"
+            },
+            {
+                "Time": "1PM - 2PM",
+                "Event" : "Lunch in auditorium downstairs. Remember to pick up your registration bands during check in. LUNCH WILL NOT BE SERVED UNTIL AARTI IS DONE."
+            },
+            {
+                "Time": "2PM - 2:30PM",
+                "Event" : "Finance Review and Few Important Announcements"
+            },
+            {
+                "Time": "2:30PM - 5PM",
+                "Event" : "Nevermind- Marathi Comedy Natak"
             }
         ],
         "Flyer": "https://drive.google.com/thumbnail?id=1YhWbN24Dgs92eowl9BxfLou3sVJ3p7ei&sz=w1000-h900",
