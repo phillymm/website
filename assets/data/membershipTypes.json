@@ -1,11 +1,10 @@
 [
-    {"name":"1 - Elite Program Membership/Sponsorship","divid":"dEliteProgram"},
-    {"name":"2 - Elite Food Membership/Sponsorship","divid":"dEliteFood"},
-    {"name":"3 - Family Membership","divid":"dFamily"},
-    {"name":"4 - Senior Citizen", "divid":"dSenior"},
-    {"name":"5 - Individual Membership", "divid":"dSingle"},
-    {"name":"6 - Single Parent","divid":"dSingleParent"},
-    {"name":"7 - Student Membership","divid":"dStudent"},
-    {"name":"8 - Visiting Parents Membership (6 months)","divid":"dParent"},
+    {"name":"1 - Elite Membership/Sponsorship","divid":"dElite"},
+    {"name":"2 - Family Membership","divid":"dFamily"},
+    {"name":"3 - Senior Citizen", "divid":"dSenior"},
+    {"name":"4 - Individual Membership", "divid":"dSingle"},
+    {"name":"5 - Single Parent","divid":"dSingleParent"},
+    {"name":"6 - Student Membership","divid":"dStudent"},
+    {"name":"7 - Visiting Parents Membership (6 months)","divid":"dParent"},
     {"name":"9 - Ganapati Day Membership (Non Member Fee)","divid":"dCurrent"}
 ]
