@@ -1,6 +1,7 @@
 [
     {
         "Title": "Executive Committee (ec-phillymm@googlegroups.com)",
+        "Picture": "assets/images/EC-Collage.png",
         "Members" : [
             {
                 "role": "President",
@@ -72,7 +73,7 @@
                 "person":"Achyut Ratnaparkhi"   
             },
             {
-                "person":"Mandar Jogalekar"   
+                "person":"Mandar Joglekar"   
             },
             {
                 "person":"Kedar Gidh"   
