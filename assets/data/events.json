@@ -33,21 +33,21 @@
         "Video" : ""  
     },
     {
-        "Title": "PMM Navaratri 2018",
+        "Title": "PGF 2018 - Comedy Natak - Amhi ani Amche Baap - Starring Pushkar Shrotri and Atul Parchure",
         "RSVPLink": "",        
         "FBLink": "",        
-        "Fee": "",
+        "Fee": "FREE - PGF Sponsored",
         "FeeDetails": "",
         "FeeLink": "",
-        "Date" : "Tentatively, Sunday, October 14, 2018.",
+        "Date" : "Wednesday, September 19, 2018.",
         "Agenda": [            
             {
-                "Time": "Evening",
-                "Event" : "Details coming soon"
+                "Time": "8 PM",
+                "Event" : "Natak"
             }
         ],
-        "Flyer": "",
-        "Venue": "TBD",
+        "Flyer": "https://drive.google.com/thumbnail?id=1gR8XzD0gO7LSijS4Qb_mA5MjbOPJk_Ku",
+        "Venue": "Bharatiya Temple, www.b-temple.org",
         "Video" : ""  
     }
 ]
