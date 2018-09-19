@@ -1,37 +1,4 @@
-[   {
-        "Title": "PMM Ganapati 2018 - Marathi Comedy Natak",
-        "RSVPLink": "http://evite.me/XAb19BEH8F",        
-        "FBLink": "",        
-        "Fee": "Free to PMM members. Non member fee: For Ages 12 and up, $20 if paid online. $25 at the desk. For Ages 5 to 12 - $10. Kids under 5 are FREE.",
-        "FeeDetails": "Go to the membership page using the link below and select Option 9 - Ganapati Day Membership",
-        "FeeLink": "membership",
-        "Date" : "Sunday, September 16, 2018.",
-        "Agenda": [            
-            {
-                "Time": "10:45 AM onwards",
-                "Event" : "Registration and check in"
-            },
-            {
-                "Time": "11:30 AM",
-                "Event" : "Ganapati Atharvashirsha and Gapati Aarti in temple hall upstairs"
-            },
-            {
-                "Time": "1PM - 2PM",
-                "Event" : "Lunch in auditorium downstairs. Remember to pick up your registration bands during check in. LUNCH WILL NOT BE SERVED UNTIL AARTI IS DONE."
-            },
-            {
-                "Time": "2PM - 2:30PM",
-                "Event" : "Finance Review and Few Important Announcements"
-            },
-            {
-                "Time": "2:30PM - 5PM",
-                "Event" : "Nevermind- Marathi Comedy Natak"
-            }
-        ],
-        "Flyer": "https://drive.google.com/thumbnail?id=1YhWbN24Dgs92eowl9BxfLou3sVJ3p7ei&sz=w1000-h900",
-        "Venue": "Bharatiya Temple, www.b-temple.org",
-        "Video" : ""  
-    },
+[   
     {
         "Title": "PGF 2018 - Comedy Natak - Amhi ani Amche Baap - Starring Pushkar Shrotri and Atul Parchure",
         "RSVPLink": "",        
@@ -48,6 +15,24 @@
         ],
         "Flyer": "https://drive.google.com/thumbnail?id=1gR8XzD0gO7LSijS4Qb_mA5MjbOPJk_Ku",
         "Venue": "Bharatiya Temple, www.b-temple.org",
+        "Video" : ""  
+    }, 
+    {
+        "Title": "PMM Garba/Dandiya 2018",
+        "RSVPLink": "",        
+        "FBLink": "",        
+        "Fee": "Free to PMM members. Non member fee: For Ages 12 and up, $20 if paid online. $25 at the desk. For Ages 5 to 12 - $10. Kids under 5 are FREE.",
+        "FeeDetails": "Go to the membership page using the link below and select Option 9 - Garba/Dandiya Day Membership",
+        "FeeLink": "membership",
+        "Date" : "October 2018.",
+        "Agenda": [            
+            {
+                "Time": "TBD",
+                "Event" : "Garba/Danidya"
+            }
+        ],
+        "Flyer": "",
+        "Venue": "TBD",
         "Video" : ""  
     }
 ]
