@@ -1,23 +1,5 @@
 [   
     {
-        "Title": "PGF 2018 - Comedy Natak - Amhi ani Amche Baap - Starring Pushkar Shrotri and Atul Parchure",
-        "RSVPLink": "",        
-        "FBLink": "",        
-        "Fee": "FREE - PGF Sponsored",
-        "FeeDetails": "",
-        "FeeLink": "",
-        "Date" : "Wednesday, September 19, 2018.",
-        "Agenda": [            
-            {
-                "Time": "8 PM",
-                "Event" : "Natak"
-            }
-        ],
-        "Flyer": "https://drive.google.com/thumbnail?id=1gR8XzD0gO7LSijS4Qb_mA5MjbOPJk_Ku",
-        "Venue": "Bharatiya Temple, www.b-temple.org",
-        "Video" : ""  
-    }, 
-    {
         "Title": "PMM Garba/Dandiya 2018",
         "RSVPLink": "",        
         "FBLink": "",        
@@ -32,6 +14,24 @@
             }
         ],
         "Flyer": "",
+        "Venue": "TBD",
+        "Video" : ""  
+    }, 
+    {
+        "Title": "PMM Diwali 2018",
+        "RSVPLink": "",        
+        "FBLink": "",        
+        "Fee": "Free to PMM members. Non member fee: For Ages 12 and up, $20 if paid online. $25 at the desk. For Ages 5 to 12 - $10. Kids under 5 are FREE.",
+        "FeeDetails": "",
+        "FeeLink": "",
+        "Date" : "Saturday, November 17, 2018.",
+        "Agenda": [            
+            {
+                "Time": "TBD",
+                "Event" : "Come witness the greatest magic show on Earth!!"
+            }
+        ],
+        "Flyer": "https://drive.google.com/uc?export=view&id=1cQOD7kYgSoT3itf0QJZ5olMPqW0x6r4k",
         "Venue": "TBD",
         "Video" : ""  
     }
