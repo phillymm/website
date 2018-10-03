@@ -1,34 +1,46 @@
 [   
     {
         "Title": "PMM Garba/Dandiya 2018",
-        "RSVPLink": "",        
+        "RSVPLink": "https://www.evite.com/event/0177T6ZVK7KDA4JLIEPIYXELI23UPI/rsvp?gid=01F6Z7Y37ZTEQIPDYEPIYXFRWNMHJI&utm_campaign=rsvp_now__bt&utm_content=&utm_medium=email&utm_source=GUEST_INVITE_EVENT",        
         "FBLink": "",        
-        "Fee": "Free to PMM members. Non member fee: For Ages 12 and up, $20 if paid online. $25 at the desk. For Ages 5 to 12 - $10. Kids under 5 are FREE.",
+        "Fee": "Free. Mandal accepts donations. Feel free to use the donate using Option 9 on the membership page.",
         "FeeDetails": "Go to the membership page using the link below and select Option 9 - Garba/Dandiya Day Membership",
         "FeeLink": "membership",
-        "Date" : "October 2018.",
+        "Date" : "Sunday, October 14, 2018.",
         "Agenda": [            
             {
-                "Time": "TBD",
-                "Event" : "Garba/Danidya"
+                "Time": "5:30PM - 7:30PM",
+                "Event" : "Marathi Mandal Exclusive Garba"
+            },
+            {
+                "Time": "7:30PM to 8:00PM",
+                "Event" : "Devi Stuti/Aarti"
+            },
+            {
+                "Time": "8:00PM - 8:30PM",
+                "Event" : "Teen Taali Garba"
+            },
+            {
+                "Time": "8:30PM - 10:00PM",
+                "Event" : "Mixed Songs (Marathi, Hindi, Gujarati)"
             }
         ],
         "Flyer": "",
-        "Venue": "TBD",
+        "Venue": "Bharatiya Temple, 1612 County Line Rd, Chalfont, PA",
         "Video" : ""  
     }, 
     {
         "Title": "PMM Diwali 2018",
         "RSVPLink": "",        
         "FBLink": "",        
-        "Fee": "Free to PMM members. Non member fee: For Ages 12 and up, $20 if paid online. $25 at the desk. For Ages 5 to 12 - $10. Kids under 5 are FREE.",
+        "Fee": "Free to PMM members. Non member fee: TBD.",
         "FeeDetails": "",
         "FeeLink": "",
         "Date" : "November, 2018.",
         "Agenda": [            
             {
                 "Time": "TBD",
-                "Event" : "Come witness the greatest magic show on Earth!!"
+                "Event" : ""
             }
         ],
         "Flyer": "",
