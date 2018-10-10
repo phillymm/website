@@ -6,7 +6,7 @@
             {
                 "role": "President",
                 "person": "Vikrant Kamble",
-                "email": "President.PhillyMM@gmail.com",
+                "email": "President@phillymm.org",
                 "picture":"assets/images/VK.jpg"
             },
             {
@@ -53,7 +53,7 @@
             },
             {
                 "role": "Community Outreach",
-                "person": "Vaishali Joglekar, Priya Joshi, Prasad Sawant, Neeraj Joshi, Arpana Date, Ojaswinee Jog, Geeta Shelukar",
+                "person": "Vaishali Joglekar, Priya Joshi, Prasad Sawant, Arpana Date, Ojaswinee Jog, Geeta Shelukar",
                 "email": "",
                 "picture":"assets/images/Outreach-collage.png"
             },
@@ -62,6 +62,18 @@
                 "person": "Ojaswinee Jog, Arpana Date, Anuja Palsule",
                 "email": "",
                 "picture":"assets/images/Inventory-collage.png"
+            },
+            {
+                "role": "Event Venue Co-ordinator",
+                "person": "Pallavi Nadkarni",
+                "email": "",
+                "picture":""
+            },
+            {
+                "role": "PMM Task Force - (aka helping hands)",
+                "person": "Neeraj Joshi",
+                "email": "",
+                "picture":""
             }
         ]
     },
