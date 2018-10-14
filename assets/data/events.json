@@ -9,6 +9,10 @@
         "Date" : "Sunday, October 14, 2018.",
         "Agenda": [            
             {
+                "Time": "5:00PM - 5:30PM",
+                "Event" : "Event Registration"
+            },
+            {
                 "Time": "5:30PM - 7:30PM",
                 "Event" : "Marathi Mandal Exclusive Garba"
             },
