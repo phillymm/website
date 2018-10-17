@@ -1,4 +1,6 @@
 [
+    {"name":"10 - Smt Shalmalee Joshi Vocal Concert","divid":"dCurrent2"},    
+    {"name":"9 - Diwali Day Membership (Non Member Fee)","divid":"dCurrent"},
     {"name":"1 - Grand Patron Membership","divid":"dElite"},
     {"name":"2 - Family Membership","divid":"dFamily"},
     {"name":"3 - Senior Citizen", "divid":"dSenior"},
@@ -6,6 +8,6 @@
     {"name":"5 - Single Parent","divid":"dSingleParent"},
     {"name":"6 - Student Membership","divid":"dStudent"},
     {"name":"7 - Visiting Parents Membership (6 months)","divid":"dParent"},
-    {"name":"8 - How to Cancel Automatic Membership Renewal?","divid":"dCancel"},
-    {"name":"9 - Diwali Day Membership (Non Member Fee)","divid":"dCurrent"}
+    {"name":"8 - How to Cancel Automatic Membership Renewal?","divid":"dCancel"}
+    
 ]
