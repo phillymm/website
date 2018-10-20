@@ -21,14 +21,26 @@
         "Title": "PMM Diwali 2018 - Marathi Dhamal Natak - Moruchi Mavshi",
         "RSVPLink": "http://evite.me/TfdYUdRZDX",        
         "FBLink": "",        
-        "Fee": "Free to PMM members. PMM members can upgrade to front seats online. Non members can pay online. Payment link is below.",
+        "Fee": "Free to PMM members. PMM members can upgrade to front seats online. Non members can pay online. Payment link is below. Tickets at the venue will be $5 more than the online ticket prices.",
         "FeeDetails": "",
         "FeeLink": "https://www.hungamacity.com/PMM-Diwali",
         "Date" : "Saturday, November 3, 2018.",
         "Agenda": [            
             {
-                "Time": "10:30 AM onwards",
-                "Event" : "Registration, Faral, Lunch and Natak"
+                "Time": "11 AM to 12 PM: ",
+                "Event" : "Registration, Faral, Raffle entry, Short Exciting Group Activity"
+            },
+            {
+                "Time": "12 PM to 1:30 PM: ",
+                "Event" : "Lunch"
+            },
+            {
+                "Time": "1:30 PM to 2 PM: ",
+                "Event" : "Seating - Find your seats"
+            },
+            {
+                "Time": "2 PM to 5 PM: ",
+                "Event" : "Natak"
             }
         ],
         "Flyer": "https://drive.google.com/uc?id=19YtraA9A_74bNyyAwu6EiO9poIXlbGSa",
