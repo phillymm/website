@@ -1,5 +1,27 @@
 [   
     {
+        "Title": "Ani Dr Kashinath Ghanekar - Marathi Movie",
+        "RSVPLink": "",        
+        "FBLink": "",        
+        "Fee": "$12 Adult/ $10 Kids under 16. Payment link is below.",
+        "FeeDetails": "Popcorn bag and one soft drink on us",
+        "FeeLink": "https://www.hungamacity.com/kashinathmovie",
+        "Date" : "Saturday Dec 08",
+        "Agenda": [            
+            {
+                "Time": "8:30 AM: 8:50 AM",
+                "Event" : "Arrival and Ticket verification"
+            },
+            {
+                "Time": "8:50 AM: 11:45 AM",
+                "Event" : "Movie"
+            }
+        ],
+        "Flyer": "https://drive.google.com/uc?id=1tUGTo3npAe5lXiT-JoBPK2_i37i2HzN4",
+        "Venue": "Ambler Theater - 108 E Butler Ave, Ambler, PA 19002",
+        "Video" : ""  
+    },
+    {
         "Title": "PMM Sankarant 2019 - Game Night",
         "RSVPLink": "",        
         "FBLink": "",        
